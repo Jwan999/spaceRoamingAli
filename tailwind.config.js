@@ -13,6 +13,7 @@ module.exports = {
         "feature-color-calander": "#f1e0ba",
         "feature-color-process": "#cae8e2",
         "feature-color-users": "#15233e",
+        "feature-color-orange": "#ee5e33",
       },
     },
     container: {
